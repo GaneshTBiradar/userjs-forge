@@ -1,0 +1,46 @@
+{
+  "name": "userjs-forge",
+  "version": "1.0.0",
+  "author": "Tony Tkachenko",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "turbo run build",
+    "build:all": "node scripts-tooling/build-all.js",
+    "build:shared": "turbo run build --filter=@userjs-forge/shared",
+    "dev": "turbo run dev --parallel",
+    "dev:shared": "turbo run dev --filter=@userjs-forge/shared",
+    "lint": "turbo run lint",
+    "lint:fix": "turbo run lint -- --fix",
+    "type-check": "turbo run type-check",
+    "test": "turbo run test",
+    "test:watch": "turbo run test:watch",
+    "clean": "node scripts-tooling/clean-all.js",
+    "clean:all": "turbo run clean && rm -rf node_modules .turbo",
+    "format": "pnpm biome format --write .",
+    "format:check": "pnpm biome check .",
+    "new:script": "node scripts-tooling/create-script.js",
+    "list": "node scripts-tooling/list-scripts.js",
+    "validate": "node scripts-tooling/validate-scripts.js",
+    "bump": "node scripts-tooling/bump-version.js",
+    "release": "node scripts-tooling/release.js",
+    "changelog": "node scripts-tooling/generate-changelog.js",
+    "check:updates": "node scripts-tooling/check-updates.js",
+    "setup": "pnpm install && pnpm run build:shared",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.3.8",
+    "@types/tampermonkey": "5.0.5",
+    "husky": "^9.1.7",
+    "turbo": "2.6.3",
+    "typescript": "5.9.3",
+    "vite": "7.2.6",
+    "vite-plugin-monkey": "7.1.5"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  }
+}

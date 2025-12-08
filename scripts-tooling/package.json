@@ -1,0 +1,19 @@
+{
+  "name": "@userjs-forge/tooling",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tooling scripts for managing @userjs-forge packages",
+  "author": "Tony Tkachenko",
+  "scripts": {
+    "create": "node create-script.js",
+    "bump": "node bump-version.js",
+    "list": "node list-scripts.js",
+    "validate": "node validate-scripts.js",
+    "build-all": "node build-all.js",
+    "clean-all": "node clean-all.js",
+    "release": "node release.js",
+    "changelog": "node generate-changelog.js",
+    "check-updates": "node check-updates.js"
+  }
+}
